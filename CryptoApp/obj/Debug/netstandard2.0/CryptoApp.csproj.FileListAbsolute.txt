@@ -1,0 +1,12 @@
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.deps.json
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csprojAssemblyReference.cache
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfoInputs.cache
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfo.cs
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.dll
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.pdb
+C:\Users\dalla\source\repos\CryptoApp\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\XamlC.stamp
